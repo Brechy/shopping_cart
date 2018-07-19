@@ -7,3 +7,5 @@ const CartHeader = (props) => {
     </nav>
   )
 }
+
+export default CartHeader;
